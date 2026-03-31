@@ -1,0 +1,12 @@
+torch
+torchvision
+timm==0.6.13
+einops
+numpy
+scipy
+opencv-python
+Pillow
+matplotlib
+seaborn
+scikit-learn
+torchinfo
