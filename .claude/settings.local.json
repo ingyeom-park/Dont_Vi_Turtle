@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(python3:*)",
-      "Bash(\"/c/Users/Administrator/AppData/Local/Programs/Python/Python311/python\":*)",
-      "Bash(/tmp/extract_cell.py:*)"
-    ]
-  }
-}
